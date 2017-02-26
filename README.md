@@ -26,10 +26,12 @@ The code relies on:
 
 [Stephen's code](https://github.com/Stephen-McDaniel/reactives-used-if-else-logic-shiny)
 
-
 Program: `plotTwoSources.R`
 
 Data: randomly generated or loaded from a text file with ONE column (with or without header)
+
+[Working app](https://macdobry.shinyapps.io/plot-two-data-sources/) on shinyapps.io
+
 
 License: MIT License
 Attribution, package authors for shiny on CRAN.
